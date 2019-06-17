@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/ESD6-blockr/blockr-ipfs-api#readme",
   "dependencies": {
-    "@blockr/blockr-p2p-lib": "^1.1.3-build.12",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "ipfs-http-client": "^32.0.1",
