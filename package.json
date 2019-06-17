@@ -26,6 +26,8 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "ipfs-http-client": "^32.0.1",
+    "jsonfile": "^5.0.0",
+    "moment": "^2.24.0",
     "reflect-metadata": "^0.1.13"
   }
 }
