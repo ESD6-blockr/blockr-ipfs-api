@@ -1,0 +1,55 @@
+{
+  "files": [
+    {
+      "ipfsHash": "QmRVeYGb2VZ2feKM9Be5gV2UgZB7FGx5wkHbMXcZEWamCh",
+      "uploader": "PUBKEY",
+      "filename": "test.pdf",
+      "uploaded": 1560332254,
+      "versions": [
+        {
+          "version": 1,
+          "ipfsHash": "QmNxx3THsByakKmr8WoMibCNUiNLbtiqxH2QDRLMWZTb5Z",
+          "uploader": "PUBKEY",
+          "filename": "test.pdf",
+          "uploaded": 1560332313
+        },
+        {
+          "version": 2,
+          "ipfsHash": "QmVNbHGYvj6kbdj7bvsX5bFhobyn1V8PnU4kbmhQmPw24J",
+          "uploader": "PUBKEY",
+          "filename": "test.pdf",
+          "uploaded": 1560415907
+        }
+      ]
+    },
+    {
+      "ipfsHash": "QmP8UXiPtTpWdXqU7UK4y6LQdN5MAEQCUs4XAK4Sb77zmm",
+      "uploader": "PUBKEY",
+      "filename": "test.pdf",
+      "uploaded": 1560412069,
+      "versions": []
+    },
+    {
+      "ipfsHash": "QmZpVM3n5dbUkYs4nLSUUV2SuakqCnSyXJseaYpTNJ2kCz",
+      "uploader": "PUBKEY",
+      "filename": "test.pdf",
+      "uploaded": 1560412173,
+      "versions": [
+        {
+          "version": 1,
+          "ipfsHash": "QmWQvQHknaYgagVBbiqsf6vtyW98HFUGneH2vTL1BiY8ob",
+          "uploader": "PUBKEY",
+          "filename": "test.pdf",
+          "uploaded": 1560415621
+        },
+        {
+          "version": 2,
+          "ipfsHash": "QmR8dipeyCfwiFujCNto1jvteocz78SWYTzaJKa5sVS7uu",
+          "uploader": "PUBKEY",
+          "filename": "test.pdf",
+          "uploaded": 1560416086
+        }
+      ]
+    }
+  ]
+}
