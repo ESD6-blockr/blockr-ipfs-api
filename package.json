@@ -23,7 +23,7 @@
   "homepage": "https://github.com/ESD6-blockr/blockr-ipfs-api#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "ipfs-http-client": "^32.0.1",
     "jsonfile": "^5.0.0",
     "moment": "^2.24.0",
